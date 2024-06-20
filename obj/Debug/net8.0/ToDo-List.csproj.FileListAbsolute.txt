@@ -1,0 +1,15 @@
+/Users/cozly/Desktop/ToDo-List/bin/Debug/net8.0/ToDo-List
+/Users/cozly/Desktop/ToDo-List/bin/Debug/net8.0/ToDo-List.deps.json
+/Users/cozly/Desktop/ToDo-List/bin/Debug/net8.0/ToDo-List.runtimeconfig.json
+/Users/cozly/Desktop/ToDo-List/bin/Debug/net8.0/ToDo-List.dll
+/Users/cozly/Desktop/ToDo-List/bin/Debug/net8.0/ToDo-List.pdb
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/ToDo-List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/ToDo-List.AssemblyInfoInputs.cache
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/ToDo-List.AssemblyInfo.cs
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/ToDo-List.csproj.CoreCompileInputs.cache
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/ToDo-List.sourcelink.json
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/ToDo-List.dll
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/refint/ToDo-List.dll
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/ToDo-List.pdb
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/ToDo-List.genruntimeconfig.cache
+/Users/cozly/Desktop/ToDo-List/obj/Debug/net8.0/ref/ToDo-List.dll
